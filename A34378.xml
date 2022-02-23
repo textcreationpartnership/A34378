@@ -1,0 +1,652 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Continuation of The Dialogue between two young ladies, lately married, concerning the management of husbands part the second : wherein is a most passionate letter full of wit and affection writ by Eloisa (a young French lady) to her husband Abelard who was emasculatd by the malice of her uncle.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 55 KB of XML-encoded text transcribed from 23 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34378</idno>
+            <idno type="STC">Wing C5963</idno>
+            <idno type="STC">ESTC R28568</idno>
+            <idno type="EEBO-CITATION">10629812</idno>
+            <idno type="OCLC">ocm 10629812</idno>
+            <idno type="VID">45470</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34378)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45470)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1400:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Continuation of The Dialogue between two young ladies, lately married, concerning the management of husbands part the second : wherein is a most passionate letter full of wit and affection writ by Eloisa (a young French lady) to her husband Abelard who was emasculatd by the malice of her uncle.</title>
+               </titleStmt>
+               <extent>44 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Héloïse, 1101-1164.</term>
+               <term>Abelard, Peter, 1079-1142.</term>
+               <term>Marriage.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Apex CoVantage</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2012-12</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:45470:1" rendition="simple:additions"/>
+            <p>A CONTINUATION of the DIALOGUE Between Two Young Ladies Lately Married. Concerning the MANAGEMENT OF <hi>Husbands.</hi>
+            </p>
+            <p>PART the Second.</p>
+            <p>Wherein is a moſt Paſſionate LETTER, Full of Wit and Affection, WRIT BY <hi>ELOISA,</hi> (a Young <hi>French</hi> Lady,) to her Husband, <hi>ABELARD,</hi> who was Emaſculated by the Ma<g ref="char:EOLhyphen"/>lice of her Uncle.</p>
+            <p>
+               <hi>London,</hi> Printed in the Year, 1696.</p>
+            <p>
+               <hi>Price Six Pence.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:45470:2"/>
+            <pb n="3" facs="tcp:45470:2"/>
+            <head>
+               <hi>A CONTINUATION</hi> of the DIALOGUE BETWEEN Two Young Ladies, lately Marry'd, CONCERNING <hi>The Management of Husbands,</hi> &amp;c. PART II.</head>
+            <sp>
+               <speaker>Amy.</speaker>
+               <p>MY dear <hi>Lucy,</hi> I'm extream glad to ſee you.</p>
+            </sp>
+            <sp>
+               <speaker>Lucy.</speaker>
+               <p>I'm pleas'd to hear you ſay ſo, ſince your Friendſhip is ſo much my Intereſt: I wiſh I cou'd make you as valuable Returns, that your Good<g ref="char:EOLhyphen"/>neſs might not be altogether the Motive of the Favours you have ſhewn me.</p>
+            </sp>
+            <sp>
+               <speaker>Amy.</speaker>
+               <p>You're miſtaken, <hi>Lucy:</hi> Friend<g ref="char:EOLhyphen"/>ſhip ought not to be mercenary; the bare Reflection of Endeavouring to ſerve my
+<pb n="4" facs="tcp:45470:3"/> Friend, brings a ſufficient Reward along with it. But how go Affairs betwixt you and your Husband, ſince I laſt ſaw you?</p>
+            </sp>
+            <sp>
+               <speaker>Lucy.</speaker>
+               <p>Indifferently. We have had no great Storm ſince.</p>
+            </sp>
+            <sp>
+               <speaker>Amy.</speaker>
+               <p>The laſt time I gave you what Advice occurr'd to me, and ſuch as, with good Succeſs, I us'd my ſelf, in order to make Marriage a very happy Eſtate: But ſince I ſaw you, I have accidentally light upon a Letter, written Originally in La<g ref="char:EOLhyphen"/>tin by one of our Sex, to her unkind Lo<g ref="char:EOLhyphen"/>ver; as the Subject was very uncommon, ſo was the Paſſion, and ſo was the Wit, of our <hi>Eloiſa,</hi> (for that was her Name.) It appears to me to be the moſt perfect and accompliſh'd Pattern of Tenderneſs, and Cunning, that ever I ſaw written by any of our Sex. Whoever reads her Let<g ref="char:EOLhyphen"/>ter, may find therein that variety of Ar<g ref="char:EOLhyphen"/>gument to Perſwade, and ſo large a Field of Subjects, that a Common-place Book might be made out of it, to ſerve upon all Occaſions; and ſo far as I am able to ap<g ref="char:EOLhyphen"/>prehend, whoever ſays any thing after her upon this Subject, muſt either bor<g ref="char:EOLhyphen"/>row of her, or perform infinitely ſhort of what ſhe has done.</p>
+            </sp>
+            <sp>
+               <speaker>Lucy.</speaker>
+               <p>Have you got it about you?</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <pb n="5" facs="tcp:45470:3"/>Amy.</speaker>
+               <p>Yes—'Twas, as I told you be<g ref="char:EOLhyphen"/>fore, written Originally in <hi>Latin,</hi> but I light upon it tranſlated into <hi>French,</hi> of which I have now again made a ſecond tranſlation for your uſe. But before we read the Letter. 'tis neceſſary I give you a brief Hiſtory of this <hi>Eloiſa</hi> and <hi>Abelard,</hi> (the Names of our married Lovers,) in order to underſtand ſeveral Paſſages in the following Letter.</p>
+            </sp>
+            <sp>
+               <speaker>Lucy.</speaker>
+               <p>Ay, Pray let's have it by all means.</p>
+            </sp>
+            <sp rend="margDblQuotes">
+               <speaker>Amy.</speaker>
+               <p>
+                  <q>
+                     <hi>Eloiſa</hi> was the Daughter of a noble Family, aged about Sixteen Years, of a quick and ſparkling Wit, and of a Beauty able to touch the moſt Inſenſible. Her Parents dying in her Childhood, her Uncle <hi>Fulbert,</hi> who was a Canon of a Church in <hi>Paris,</hi> took her into his Care, and reſolved to give her an Education ſuitable to her natural Abilities; and as he lov<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d her much, ſo he employed all imaginable Means to accompliſh his Deſign, and could hardly ſpeak of any thing elſe but the Wit and Beauty of his Niece; ſuch rare Qualities made all Perſons in Love with her. Amongſt the reſt, <hi>A<g ref="char:EOLhyphen"/>belard,</hi> a great Philoſopher, was one of
+<pb n="6" facs="tcp:45470:4"/> thoſe that felt the Power of her Charms' a Perſon famous for Learning and Gal<g ref="char:EOLhyphen"/>lantry: He had a ſurpriſing Cleanneſs of Wit, a Firmneſs of Mind in Misfor<g ref="char:EOLhyphen"/>tunes. In a word, That which makes up the beſt and moſt excellent Part of Merit in Great Men, makes up the True Character of <hi>Abelard.</hi>
+                  </q>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Lucy.</speaker>
+               <p>Happy <hi>Eloiſa!</hi> Surely, if ſhe did not prove Kind and True to ſuch a Hus<g ref="char:EOLhyphen"/>band, ſhe was certainly the worſt of Wo<g ref="char:EOLhyphen"/>men.</p>
+            </sp>
+            <sp>
+               <speaker>Amy.</speaker>
+               <p>Hold, <hi>Lucy,</hi> be not too haſty; you'll change your Mind before you hear the Story out. But I'll go on.</p>
+               <q rend="margDblQuotes">
+                  <p>Our <hi>Abelard</hi> could not, with all his Philoſophy, reaſon himſelf out of the Fetters of Love; therefore made all the Intereſt he could to gain Acquaintance with her Uncle, and not without ſuc<g ref="char:EOLhyphen"/>ceſs; for after a little Converſe, he thought no Perſon more Diſintereſted, nor better Qualified than <hi>Abelard,</hi> to read Philoſophy to his Niece: He de<g ref="char:EOLhyphen"/>ſired <hi>Abelard</hi> to abide with him, gave him <hi>Eloiſa</hi> for his Scholar, and, as if he had conſpired with <hi>Abelard</hi>'s Deſign, entruſted him with the abſolute Com<g ref="char:EOLhyphen"/>mand
+<pb n="7" facs="tcp:45470:4"/> of his Niece. Thus the Tender<g ref="char:EOLhyphen"/>neſs he had for his Niece, and the Re<g ref="char:EOLhyphen"/>putation of <hi>Abelard,</hi> wholly deceiv'd him. <hi>Abelard,</hi> who gladly undertook this Charge, fail'd not to make good uſe of the Liberty he had to be with <hi>Eloiſa;</hi> almoſt every moment he diſ<g ref="char:EOLhyphen"/>cover'd his Paſſion for her, and mana<g ref="char:EOLhyphen"/>ged it ſo well, that in a little time ſhe liſtens with Pleaſure, and at laſt began to love him ſo tenderly, that ſhe could refuſe him nothing.</p>
+                  <p>It was not long before this amorous Converſe betwixt Maſter and Scholar was obſerved: His continual Atten<g ref="char:EOLhyphen"/>dance, and the tender Methods of Ma<g ref="char:EOLhyphen"/>naging her, ſoon convinced thoſe about 'em, that Philoſophy was not the only ſubject of their Converſation. In fine, our Lovers were not ſo cloſe and pru<g ref="char:EOLhyphen"/>dent in the Management of their A<g ref="char:EOLhyphen"/>mour. but the Uncle began to ſuſpect ſomething, and reſolved to ſeparate them, and prevent the ill Conſequen<g ref="char:EOLhyphen"/>ces of ſuch Familiarity. But 'twas too late. For our Lovers being fully re<g ref="char:EOLhyphen"/>ſolved that nothing ſhould divert their mutual Paſſion, they became as jealous of the Uncle as he was of them; and <hi>Abelard</hi> improving his Opportunity,
+<pb n="8" facs="tcp:45470:5"/> did eaſily prevail with <hi>Eloiſa</hi> to believe that the Form of Matrimony was no<g ref="char:EOLhyphen"/>thing but a Ceremony and that it was abſolutely neceſſary for them to con<g ref="char:EOLhyphen"/>ſummate the ſame betwixt themſelves upon ſolemn Promiſe, as being the on<g ref="char:EOLhyphen"/>ly Means left them to prevent the cruel Separation which the Uncle deſigned. And thus<g ref="char:punc">▪</g> 
+                     <hi>Lucy,</hi> poor <hi>Eloiſa</hi> was over<g ref="char:EOLhyphen"/>come before Marriage: And afterwards perceiving ſome ſtrange Alterations in her ſelf, ſhe acquainted <hi>Abelard</hi> with it, who, to ſave her Honour, carried her off by Night to <hi>Paris,</hi> in order to be Married privately, in the common Form; tho' at the ſame time her Affe<g ref="char:EOLhyphen"/>ction to <hi>Abelard</hi> was ſo great, that ſhe did voluntarily offer to ſacrifice her Ho<g ref="char:EOLhyphen"/>nour, ſo ſhe might be but aſſur'd of his Love, rather than deprive the Church of ſo great a Prelate by the Ceremony of Marriage.</p>
+                  <p>The Stealth of <hi>Eloiſa</hi> was an ex<g ref="char:EOLhyphen"/>tream Affliction to her Uncle, who lov'd her ſo entirely, that he could not live without her; and beſides he was ſo ſenſible of the Affront that <hi>Abelard</hi> had put upon him, that he ſwore he would be Reveng'd <hi>Abelard</hi> in a ſhort time goes back to <hi>Fulbert,</hi> and endea<g ref="char:EOLhyphen"/>voured
+<pb n="9" facs="tcp:45470:5"/> by all means to appeaſe him, and entreated his Pardon with the ut<g ref="char:EOLhyphen"/>moſt Submiſſions. Whereupon the old Gentleman did craftily feign a Recon<g ref="char:EOLhyphen"/>ciliation, that he might have the better Opportunity to execute his Revenge; which he effected, by corrupting one of <hi>Abelard</hi>'s Servants, to let into his Chamber ſome Villains, who, whilſt he was aſleep, ſet upon him, and with a Razour, at one ſtroak, unman'd him. The Aſſaſſinators were afterwards pu<g ref="char:EOLhyphen"/>niſhed by courſe of Juſtice.</p>
+                  <p>After this great Misfortune, our Philoſopher retired amongſt the Monks, and entered <hi>Eloiſa</hi> into a Nunnery.</p>
+                  <p>The Monks in a very little time forc'd <hi>Abelard</hi> to fly and retire to a De<g ref="char:EOLhyphen"/>ſart, where he erected a Chapel, which he afterwards turn'd into a Monaſtery, made his <hi>Eloiſa</hi> Lady Abbeſs, and then retir'd into a remote corner at a great diſtance.</p>
+                  <p>During this Separation, a Letter that <hi>Abelard</hi> had writ to one of his Friends near the Nunnery, in which he made a long Narrative of all his Perſecutions, fell accidentally into the Hands of our new Abbeſs, who open'd it, and having found therein a thou<g ref="char:EOLhyphen"/>ſand
+<pb n="10" facs="tcp:45470:6"/> things which nearly concerned her ſelf, ſhe took occaſion to write the following Letter, complaining of the Severity of being left to ſo many diſ<g ref="char:EOLhyphen"/>quieting Thoughts, which ſo long a Silence might occaſion.</p>
+               </q>
+            </sp>
+            <sp>
+               <speaker>Lucy.</speaker>
+               <p>This is a very ſtrange Account, and makes a greater Impreſſion upon me, ſince the poor Lady had the ſame Misfor<g ref="char:EOLhyphen"/>tune as I had, of being overcome before Marriage: But methinks I ſhou'd (had I been in her caſe) have begg'd my Hus<g ref="char:EOLhyphen"/>band's Pardon for going into a Nunnery, or plaguing my ſelf much about him, af<g ref="char:EOLhyphen"/>ter that unlucky Misfortune. Let her pretend as ſhe pleaſes: I can't think it poſſible for a Woman to love an Eunuch-Husband. For my part, I know what I think of it.</p>
+            </sp>
+            <sp>
+               <speaker>Amy.</speaker>
+               <p>But, my Friend <hi>Lucy,</hi> that's not ſo much the Buſineſs. Is not here a very ſad Misfortune, for a couple of tender Perſons? Had they been both bury'd alive, there could not have been a greater Task for the Paſſions. The poor Lady is Cloiſter'd, depriv'd of all her Friends, ſhut up from the World, and yet accom<g ref="char:EOLhyphen"/>pany'd with all the vehement and unruly Paſſions of an amorous Lover, and the
+<pb n="11" facs="tcp:45470:6"/> Cares of a tender Wife. What an exqui<g ref="char:EOLhyphen"/>ſite Torture muſt it be to her, to loſe her Lover in the midſt of all her Beauty and Charms! to reflect upon the Scandal, and Perſecutions of one ſhe lov'd better than her Life! and what ſtill adds to the Weight of all their Miſery, her good Education gave her ſuch a Taſte of all the Accidents of <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ife, as was much more delicate and ſenſible than otherwiſe it would have been! Perhaps you'll ask what great Hopes ſhe could have in <hi>Abelard</hi>'s Return to her. Tho' ſhe had loſt the Lover, ſhe lov'd the Friend: And if ſhe could write after ſuch a ſtrange manner for half a Husband to return and live kindly with her, what wou'd ſhe have done, if ſhe had been to have Reclaim'd an effective Husband, ſuch as yours or mine?</p>
+            </sp>
+            <sp>
+               <speaker>Lucy.</speaker>
+               <p>I can forbear no longer: Pray let's hear the Letter.</p>
+            </sp>
+            <sp>
+               <speaker>Amy.</speaker>
+               <p>I'll read it then.</p>
+            </sp>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="12" facs="tcp:45470:7"/>
+                  <head>Eloiſa <hi>to</hi> Abelard.</head>
+                  <argument>
+                     <p>'Tis to her Maſter, her Father, to her Brother, her Husband, that a Servant, a Daughter, a Siſter, a Wife, and, to include in one Word, all that theſe Names have in 'em of Honour, Reſpect, Tenderneſs, and Freedom, 'tis to her <hi>Abelard</hi> that <hi>Eloiſa</hi> writes.</p>
+                  </argument>
+                  <p>
+                     <hi>SOme time ſince a Letter fell into my Hands which you had writ to one of your Friends, as I knew the Character, and lov'd the Hand, my Heart keeping Intelligence with my Cu<g ref="char:EOLhyphen"/>rioſity forc'd me to open it, flattering my ſelf, that I had a ſoveraign Right to every thing that comes from you, and did not believe there were any Laws of</hi> Decorum <hi>for me to obſerve, when I was enflam'd with a violent Deſire of knowing what was become of you. But, alas! what has my Curioſity coſt me? How many Tears has it drawn from me? And how was I ſurpriz'd to find in your Letter no<g ref="char:EOLhyphen"/>thing but a ſad and long detail of your Misfor<g ref="char:EOLhyphen"/>tunes! I ſaw my Name in it an Hundred</hi>
+                     <pb n="13" facs="tcp:45470:7"/> 
+                     <hi>times, and I never found it but with <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ear, there being always ſome Affliction or other at<g ref="char:EOLhyphen"/>tending it. I alſo read yours, which was nothing more happy. Theſe lamentable, yet dear</hi> Idea's <hi>ſo ſtrongly affected me, that I believ'd you wrote not ſo much to Comfort a Friend under ſome light Diſgraces, as to deſcribe our Mis<g ref="char:EOLhyphen"/>fortunes and Perſecutions. What Reflections did not I then make! I began to think all over anew, and found my ſelf ſeiz'd with the ſame Grief as when we began to be firſt unhappy; and altho' Time had diminiſh'd thoſe Pains, 'twas enough to ſee 'em written by your Hand to make me feel them over again. Nothing can ever make me forget what you have ſuf<g ref="char:EOLhyphen"/>fer'd. I ſhall always remember the Malice of a Cruel Uncle, an Aſſaſſinate, and a Lover ill Treated. I ſhall never forget how your Wit begat Enemies, and ſuch as were jealous of your Glory. I ſhall continually repreſent to my ſelf that high Reputation which you have ſo juſtly acquir'd. What Tempeſts have not the Monks, thoſe Religious Traitors, rais'd a<g ref="char:EOLhyphen"/>gainſt you? This Chain of ſo many Evils hath drawn Blood from the bottom of my Heart. My Tears, which I cou'd not keep, have effac'd part of your Letter; and I could have almoſt wiſh'd to have ſerv'd it all ſo, and ſent it thus back again to you.</hi>
+                  </p>
+                  <pb n="14" facs="tcp:45470:8"/>
+                  <p>
+                     <hi>'Tis true nevertheleſs, and I confeſs it to you, that before I had read I was much more eaſie; but ſo ſoon as I had perus'd it, my Grief was renew'd. 'Tis too much, I ſay, 'tis too much to ſuffer without complaining, ſince the Rage of our Enemies is ſtill living; ſince Time, which diſarms the moſt mortal Hatred, never diſarms them; ſince your Vertue muſt be perſecuted even till your Coffin ſerves for an</hi> Aſylum; <hi>nay, perhaps blind Anger will even diſturb your Aſhes. I hope I ſhall always re<g ref="char:EOLhyphen"/>member theſe paſt Misfortunes, and fear ſuch as may ſtill come upon you. I ſhall never men<g ref="char:EOLhyphen"/>tion the Name of my dear</hi> Abelard <hi>without Tears in my Eyes. I ſhall never pronounce his Name without a Sigh. See, I pray you, the Condition you have reduc'd me to, Sad, Af<g ref="char:EOLhyphen"/>flicted, and without any Comfort, if it comes not from you. Refuſe me not then, I conjure you, but give me a faithful Account of all that relates to you, how dolorous ſoever it is. I wou'd be ignorant of nothing. Perhaps, by mingling my Sighs with yours, you will ſuffer the leſs, if what is commonly ſaid be true,</hi> That Afflictions divided become eaſie.</p>
+               </body>
+            </floatingText>
+            <sp>
+               <speaker>Lucy.</speaker>
+               <p>Poor Lady! And all this for an Eunuch. So much Tenderneſs, Wheed<g ref="char:EOLhyphen"/>ling, and Recounting of Misfortunes, <hi>&amp;c.</hi>
+                  <pb n="15" facs="tcp:45470:8"/> to call back a diſabled Straggler! For my part—</p>
+            </sp>
+            <sp>
+               <speaker>Amy.</speaker>
+               <p>Why do you interrupt me, <hi>Lucy,</hi> with ſuch Remarks as theſe? You ought rather to conſider, and imitate herein the Art of Perſwaſion. See what tender Expreſſions upon all Occaſions ſhe does uſe! what Stories of paſt Misfortunes does ſhe not repeat! which, perhaps, is a Subject that as much endears the Parties that have ſhar'd 'em as any thing in the World. Then for her modeſt Commen<g ref="char:EOLhyphen"/>dations of him, which you call Wheed<g ref="char:EOLhyphen"/>ling, 'tis no unſucceſsful Method. None, how prudent and mortify'd ſoever they be, are able to ſtand the Battery of a handſome Commendation.</p>
+            </sp>
+            <sp>
+               <speaker>Lucy.</speaker>
+               <p>I thank you for theſe Obſerva<g ref="char:EOLhyphen"/>tions. I confeſs, every Advice or Word that comes from you, my Friend <hi>Amy,</hi> has a Charm in it, and each Argument has a double force. Pray will you read on.</p>
+            </sp>
+            <sp>
+               <speaker>Amy.</speaker>
+               <p>Preſently—There's another Remark I can't paſs over. You ſee how importunate ſhe was for knowing his Con<g ref="char:EOLhyphen"/>cerns, and bearing her ſhare in his Affli<g ref="char:EOLhyphen"/>ctions. What can be more obliging then this, or a greater Sign of True Friend<g ref="char:EOLhyphen"/>ſhip? But to proceed—</p>
+               <pb n="16" facs="tcp:45470:9"/>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <p>
+                        <hi>Tell me not for an Excuſe, that you will ſpare our Tears: I deſire no ſuch Pity. Be<g ref="char:EOLhyphen"/>ſides, if to write back to me you wait till you can write upon ſome agreeable Subject, you will ſtay too long. Vertuous Men have but little Happineſs to hope for here. 'Twill indeed be to me a great Pleaſure to open one of your Let<g ref="char:EOLhyphen"/>ters, if 'twas only to be inform'd that you don't forget me.</hi> Seneca <hi>(whom you have ſo often read to me) appear'd ſo ſenſible, (as much a-Stoick as he was,) when he open'd one of</hi> Lucillas'<hi>s Letters, that he imagin'd he taſted all the Pleaſures of Converſation.</hi>
+                     </p>
+                     <p>
+                        <hi>I have obſerv'd in your Ahſence, that we do more admire the Pictures of the Perſons we love, when far diſtant from us, than when they were near. It ſeems to me, the more di<g ref="char:EOLhyphen"/>ſtant they are from us, the livelier and likelier to the Truth is their Pictures; at leaſt our Ima<g ref="char:EOLhyphen"/>gination, which continually depaints 'em, makes us find it ſo. I have your Picture, and I never paſs by it without fixing upon it; tho' when you was preſent, I cou'd ſcarce look upon't. If Painting, which is only a dumb Repreſenta<g ref="char:EOLhyphen"/>tion of Objects, gives ſo great Pleaſure, what Joys will not Letters inſpire! They are ani<g ref="char:EOLhyphen"/>mated, they ſpeak, they carry with them that Spirit which explains the Motions of the Heart, they contain within them the Fire of our Paſ<g ref="char:EOLhyphen"/>ſions,
+<pb n="17" facs="tcp:45470:9"/> and render every thing as ſenſible as if ſeen; they ſay every thing that can be ſpoken of Love and Tenderneſs when we are together, and even ſometimes they ſpeak to greater Ad<g ref="char:EOLhyphen"/>vantage. We may write to one another; a Pleaſure ſo innocent is not forbidden us. Let us not loſe by our negligence the only Happineſs that is left us, and that perhaps which our Perſecutors cannot deprive us of. I will tell you, that you are my Husband; you ſhall</hi> ſee <hi>me ſpeak like your Wife; and, in deſpight of all your Misfortunes, you ſhall be in a Letter</hi> whatever you wou'd be. <hi>'Twas for the Comfort of Perſons encloiſter'd, as I am, that Letters were firſt invented. Having loſt the effective Pleaſures of ſeeing and enjoying you any more, I ſhall find'em again in ſome man<g ref="char:EOLhyphen"/>ner in your writing to me: I ſhall there read your moſt ſecret Sentiments, and carry: 'em con<g ref="char:EOLhyphen"/>tinually about me. In fine, if you are capable of any Jealouſie, let it be that only of the Ca<g ref="char:EOLhyphen"/>reſſes I ſhall give your Letters.</hi>
+                     </p>
+                  </body>
+               </floatingText>
+            </sp>
+            <sp>
+               <speaker>Amy.</speaker>
+               <p>Pray, <hi>Lucy,</hi> what think you of this? Suppoſe you had a Husband un<g ref="char:EOLhyphen"/>der Misfortunes, that eſtrang'd himſelf from you, and wou'd not ſee you, (which, no doubt, is a ſad Affliction) What could poſſibly be invented, or thought of, to make him write or return back to you,
+<pb n="18" facs="tcp:45470:10"/> that is not here ſaid? I cou'd read it a Hundred times over, and be proud that one of our Sex cou'd write at this rate.</p>
+            </sp>
+            <sp>
+               <speaker>Lucy.</speaker>
+               <p>'Tis indeed an extream paſſio<g ref="char:EOLhyphen"/>nate and clean Wit; and, I think, wor<g ref="char:EOLhyphen"/>thy an effective Husband.</p>
+            </sp>
+            <sp>
+               <speaker>Amy.</speaker>
+               <p>The more Remarkable, I think, ſince 'twas the effect of pure diſintereſted Friendſhip.</p>
+            </sp>
+            <sp>
+               <speaker>Lucy.</speaker>
+               <p>I am not of your Opinion, by any means: I rather think it the Effects of an old Habit; and that the Influence of paſt warm Embraces was not yet ſo extinct as not to dictate much of theſe paſſionate Expreſſions. But however pray proceed.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <p>
+                        <hi>I wou'd not have you to write to me with Ap<g ref="char:EOLhyphen"/>plication: I had rather hear the Language of your Heart than your Wit. I cou'd not live, if you ſhou'd not tell me that you lov'd me al<g ref="char:EOLhyphen"/>ways: This Language muſt be ſo natural to you, that I believe you cannot uſe any other without doing your ſelf great Violence. Be<g ref="char:EOLhyphen"/>ſides, it is but juſt, that you heal again, with ſome Marks of Conſtant Love, the Wounds that you have made in my Soul by that ſad Account which you have given your Friend.</hi>
+                     </p>
+                     <p>
+                        <hi>'Tis not that I reproach the innocent Artifice you have made uſe of to Comfort the Afflicted,</hi>
+                        <pb n="19" facs="tcp:45470:10"/> 
+                        <hi>by comparing his Miſery with a greater. Cha<g ref="char:EOLhyphen"/>rity is ingenious and commendable in theſe Pi<g ref="char:EOLhyphen"/>ous Circumventions. But are not your Obli<g ref="char:EOLhyphen"/>gations greater to me than to this Friend? What Friendſhip can there be betwixt you? They call us your Siſters, and we call our ſelves your Daughters. If there was any thing in the nature of theſe Expreſſions that cou'd tye us more ſtrictly to you, we might make uſe-of it to expreſs this Act of Devoting our ſelves under your Conduct, and of your Obligations to us again.</hi>
+                     </p>
+                     <p>
+                        <hi>When a deep Silence ſhall cover our juſt Acknowledgments, this Church, theſe Altars, and theſe Places, ſhall ſpeak enough; but in<g ref="char:EOLhyphen"/>deed, 'tis neither theſe Stones, nor theſe Mar<g ref="char:EOLhyphen"/>bles, but your Self that ſpeaks; (and I ſhall always mention it with pleaſure) 'tis You, that are the only Founder of this Houſe.</hi>
+                     </p>
+                     <p>
+                        <hi>The</hi> Auguſtines, <hi>the</hi> Tertullians, <hi>and the</hi> Jeromes, <hi>have written to their</hi> Eudona'<hi>s, their</hi> Paula'<hi>s, their</hi> Melania'<hi>s: And when you read theſe Names, How can you forget mine? Will it be a Crime for you to cultivate my Mind like a</hi> Jerome? <hi>To preach to me like a</hi> Tertullian? <hi>And to ſpeak to me with the Grace of St.</hi> Auguſtine? <hi>Your Sciences and Knowledge ought not to be barren and fruitleſs in reſpect of me. In writing to me, you will write to a Wife: A</hi> Sacrament <hi>hath render'd</hi>
+                        <pb n="20" facs="tcp:45470:11"/> 
+                        <hi>this Commerce legitimate: And ſince you can ſatisfie me, without committing the leaſt Scan<g ref="char:EOLhyphen"/>dal, why will you not do it? I have an Un<g ref="char:EOLhyphen"/>cle a Barbarian, whoſe Inhumanity ſerves on<g ref="char:EOLhyphen"/>ly to make you dearer to me. You have no Reaſon now to fear me, Why do you fly me? Hear my Sighs; 'tis enough if you will be only a Witneſs of 'em.</hi>
+                     </p>
+                     <p>
+                        <hi>You remember, doubtleſs, (For what can't thoſe remember who have lov'd?) with what Pleaſure I travell'd to hear you; after what manner, when we were not together, I ſtole from all the World to write to you; what In<g ref="char:EOLhyphen"/>quietudes did one Billet cost me, even till it came to your Hands, becauſe of the Manage<g ref="char:EOLhyphen"/>ment and dangerous Truſt. I repos'd in the De<g ref="char:EOLhyphen"/>liverer. I know well this Account ſurprizes you, and you are afraid to hear the reſt: But I bluſh no more about it, ſince my Tenderneſs for you has no Bounds. I have done more than all this: I'm Hated for Loving you; and I am come here to loſe my ſelf, to make you live with<g ref="char:EOLhyphen"/>out Diſquiet. There's nothing but Vertue, joyn'd with a Love that is diſengag'd from the Commerce of the Senſes, which can produce ſuch Effects. When we love Pleaſures, we love the Living, and not the Dead. We ceaſe to burn for thoſe who are not in a Condition to burn for us again. My Cruel Uncle thought thus: He thought me like other Women, and</hi>
+                        <pb n="21" facs="tcp:45470:11"/> 
+                        <hi>that I lov'd your Sex more than your Perſon. But his Aim had not that effect. I love you more than ever, and revenge my ſelf upon him by heaping all my Tenderneſs upon you. If heretofore the Affection I had for you was not ſo pure as it is at preſent, if formerly both my Mind and Body partak'd of the Pleaſure of Loving you, yet I told you a Thouſand times, that I had always more content in poſſeſſing your Heart, than in enjoying all the Felicity of our Sex; and of all that you had, it was not the</hi> Man <hi>that pleas'd me moſt.</hi>
+                     </p>
+                  </body>
+               </floatingText>
+            </sp>
+            <sp>
+               <speaker>Lucy.</speaker>
+               <p>Perhaps ſo.</p>
+            </sp>
+            <sp>
+               <speaker>Amy.</speaker>
+               <p>Why, <hi>Lucy,</hi> it was or ought to be ſo. 'Tis not long ſince you complain'd that ſuch Enjoyments were grown inſipid and dull.</p>
+            </sp>
+            <sp>
+               <speaker>Lucy.</speaker>
+               <p>That's right, becauſe I want 'em not. But were I in <hi>Eloiſa</hi>'s caſe, per<g ref="char:EOLhyphen"/>haps I ſhould think otherwiſe again. But proceed, if you pleaſe.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <p>
+                        <hi>You ought to be perſwaded of this by the extream Reluctance I had againſt Marriage, although I well knew that this Name was Ho<g ref="char:EOLhyphen"/>nourable amongſt Men, and Holy in Religion, yet I ceas'd to find thoſe Charms there, in think<g ref="char:EOLhyphen"/>ing that I ceas'd to be free. The Chains of Marriage, how honourable ſoever they may</hi>
+                        <pb n="22" facs="tcp:45470:12"/> 
+                        <hi>be, carry along with them ſuch neceſſary Obli<g ref="char:EOLhyphen"/>gations, as raviſh the Glory of being Lov'd. I was willing to have ſhunn'd the Neceſſity of Loving a Man, who, poſſibly, might not love me always. I hated the Name of Wife, to live happily with that of your Miſtreſs. The Tenderneſs of a Maid which you lov'd with ſo much Paſſion, yet leſs than ſhe wiſh'd for, are not altogether forgotten by you, ſince you entertain'd your Friend with them in that Let<g ref="char:EOLhyphen"/>ter which I ſurpriz'd. You ſay very well in this, that I found nothing but what was in<g ref="char:EOLhyphen"/>ſipid in all the publick Engagements which tye thoſe Knots that only Death cou'd break, and which make a ſad Neceſſity of Life and Love: But you add not, that I proteſted to you, an Hundred times, that it was infinitely more agreeable to me, to live with</hi> Abelard <hi>as his Miſtreſs, than to be an Empreſs with</hi> Au<g ref="char:EOLhyphen"/>guſtus; <hi>and that it wou'd be more Happineſs for me to Obey you, than to Captivate lawfully the Maſter of the Univerſe. Riches and Grandeurs are not the Charms of Love. True Tenderneſs diſtinguiſh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>s the Lover from every thing elſe, takes no notice of his Fortune, his Rank, and Employments. This wou'd be to ſeek ſuch a Marriage, as wou'd rather ſatisfie the Ambition than the Heart: But I believe ſuch Perſons can never taſte that ſweet Union, nor feel the ſecret and charming Emotions of</hi>
+                        <pb n="23" facs="tcp:45470:12"/> 
+                        <hi>Two Hearts, which for a long time have en<g ref="char:EOLhyphen"/>deavoured to be united. Thoſe who marry for other Conſiderations, do continually ſigh after better Fortune, which they believe have eſcap'd 'em. The Wife ſees Husbands Richer than hers, and the Husband ſees Wives Richer than his: Intereſted Vows beget Regrets, and Re<g ref="char:EOLhyphen"/>grets, Diſcord; and Diſcord, Separation, or at leaſt, Hatred. Unquiet and immoderate Deſire is the Revenger of a Love which is of<g ref="char:EOLhyphen"/>fended by a ſeeking after any Happineſs by Love, than what is in Love it ſelf. If there's any Shadow of Felicity here below, I'm perſwaded 'tis only to be found in the Union of Two Perſons who freely love, whom a Secret Inclination hath joyn'd, and a reciprocal Me<g ref="char:EOLhyphen"/>rit ſatisfy'd.</hi>
+                     </p>
+                  </body>
+               </floatingText>
+            </sp>
+            <sp>
+               <speaker>Amy.</speaker>
+               <p>What think you, <hi>Lucy,</hi> Had not this Lady a true Taſte of the Buſineſs of Life? How many of our Acquaintance has ſhe Arraign'd at once.</p>
+            </sp>
+            <sp>
+               <speaker>Lucy.</speaker>
+               <p>Perhaps all the Marry'd Worlds at leaſt ſome time or other. But the next—</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <p>
+                        <hi>If I cou'd believe you were as much perſwa<g ref="char:EOLhyphen"/>ded of my Merit as I of yours, I wou'd tell you there was a time when we might have reckon'd our ſelves in the Number of the Happy.
+<pb n="24" facs="tcp:45470:13"/> Alas! how ſhou'd I not be perſwaded of your Merit? If I ſhou'd doubt of it, an univerſal Eſteem would determine in your Favour. Is there any Country, Province, or Town, which has not deſir'd you? Where can you retire your ſelf where you will not be follow'd with Hearts and Eyes? All the World takes Pleaſure in ſaying they have ſeen</hi> Abelard. <hi>Wives, in 'ſpight of thoſe Laws of</hi> Decorum <hi>which the World has put upon 'em, ſufficiently teſtifie that they feel ſomething more than a ſimple Eſteem for you: I have known 'em Praiſe their Husbands, when at the ſame time they were Jealous of my Joys, and plainly ſignify'd that nothing wou'd be impoſſible to you, in reſpect of them: So that who cou'd Reſiſt you? Your Reputation, which flatter'd the Vanity of our Sex; your Air, your Manners, your lively Eyes, in which your Soul was ſo admirably painted, your Diſcourſes, and in a word, eve<g ref="char:EOLhyphen"/>ry thing that belongs to you ſpoke in your Fa<g ref="char:EOLhyphen"/>vour. There's nothing, even to the leaſt Songs or Copy of Verſes which you have made for me, which has not a Thouſand Beauties; I will make 'em endure ſo long as there are Perſons that ſhall love; they ſhall ſing to others that which you thought only to make for me; and thoſe Words, ſo natural and tender which were the Teſtimony of your Love in light Verſe, and little Songs, ſhall ſerve for others to expreſs
+<pb n="25" facs="tcp:45470:13"/> their Thoughts much better than they could do themſelves. But have not theſe ſort of Gal<g ref="char:EOLhyphen"/>lantries made me many Rivals? How many Women have been willing to appropriate the Subject to themſelves, and wou'd have it a Homage which Love pay'd to their Beauty? Others through deſpair have Reproach'd me, by ſaying, that I had no other Beauty beſides that which your Verſes gave me, nor any Ad<g ref="char:EOLhyphen"/>vantages above them, but in being belov'd by you; and in 'ſpight of that Self-Love, which is ſo diſcernable in all Women, I eſteem'd my ſelf happy in having a Lover, to whom I was indebted for all my Accompliſhments; and I took a ſecret Pleaſure in the Service of a Man, who, when he pleas'd, cou'd make a Goddeſs of his Miſtreſs. Proud of your Glory, I read with Pleaſure all the Praiſes you gave me, and often, without conſulting my ſelf, I was willing to be ſuch as you deſcrib'd me, that I might more certainly pleaſe you.</hi>
+                     </p>
+                     <p>
+                        <hi>But, alas! where is the Time that I ſpeak of? I now bewail my Lover; and of all my Joys there remains only an unhappy Remem<g ref="char:EOLhyphen"/>brance of 'em, which overwhelms me. You that were jealous of my Happineſs learn, that he, for whom you envy'd me, is no more ei<g ref="char:EOLhyphen"/>ther yours or mine. I lov'd him; my Love was both his Crime and Puniſhment; my weak Allurements charm'd him, and content
+<pb n="26" facs="tcp:45470:14"/> with each other we liv'd happily, and calmly paſs'd on ſome bliſsful Minutes; and if it was a Crime to live thus, this Crime wou'd pleaſe me again. But my Misfortune is to have had unjuſt Relations, whoſe Hatred and Rage troubled the Calm of our Bliſs. If theſe Bar<g ref="char:EOLhyphen"/>barians had made uſe of their Reaſon, I ſhou'd now have enjoy'd my</hi> Abelard <hi>in Peace. How Cruel were they, when their blind Paſſion en<g ref="char:EOLhyphen"/>gag'd an Aſſaſſine to ſurprize you in your Sleep! If we had been together, I wou'd have defen<g ref="char:EOLhyphen"/>ded you at the Expence of my own Life; my Crys only wou'd have ſtay'd his Arm. But in this Place Love is ſcandaliz'd, and my Mo<g ref="char:EOLhyphen"/>deſty joyn'd to my Deſpair makes me ſilent. I am not permitted to ſay all that I think upon this Subject; and altho' I were permitted, yet I cou'd not do it: Great is the Eloquence of Silence, where the greateſt of Evils can't be expreſs'd. Tell me only, for 'tis very afflicting to me, whence came it that you began to neglect me after my</hi> Profeſſion <hi>of a Monaſtick Life. Let me hear the Reaſon of your Coldneſs, or rather permit me to diſcover my Thoughts to you, Is it poſſible, that only the Proſpect of Pleaſure ſhould draw you to me, and that my Tenderneſs, which cou'd deny you nothing that you cou'd wiſh, ſhou'd diminiſh your Flames. A ſad Experience has taught me, that Men fly thoſe to whom they have the greateſt Obliga<g ref="char:EOLhyphen"/>tion;
+<pb n="27" facs="tcp:45470:14"/> and that a Grant of many Favours to 'em, is rather an Occaſion of Indifferency then Gratitude. Thus this weak Heart was too ill defended to be dear to you long: You eaſily took it, and now give it me back again. No, in<g ref="char:EOLhyphen"/>grateful Man! I will never conſent to receive it; and tho' I ought in this Place not to have my own Will, I have nevertheleſs ſecretly pre<g ref="char:EOLhyphen"/>ſerv'd a Deſire of being Lov'd by you. At that very time I made my ſad Vows, I had about me the laſt Letter you ſent me, in which you proteſted you wou'd be always mine, and that you wou'd only live to love me: So that 'tis to you that I am ſacrific'd; you have my Heart, I had yours. Ask me nothing back again; and ſuffer my Paſſion, as ſomething which is ſo much yours, that you can't deprive your ſelf of it.</hi>
+                     </p>
+                     <p>
+                        <hi>Alas! What is my Weakneſs to talk at this rate? Cruel Man! you forc'd me hither by your Conduct. Infidel! Muſt you all at once love me no more? Why did not you de<g ref="char:EOLhyphen"/>ceive me for ſome time, and not abandon at once? If you had at leaſt given me ſome feeble Marks of a dying Friendſhip, I ſhou'd have aſſiſted you to have deceiv'd my ſelf, and wou'd have made all poſſible Efforts to have believ'd you capable of ſome Conſtancy; But in the way you now treat me, what Opi<g ref="char:EOLhyphen"/>nion can I have of you? What can I think
+<pb n="28" facs="tcp:45470:15"/> of ſuch a Forgetful One as you are? Why do you take away all Means of Writing to you? I have paſſionately wiſh'd to ſee you; but if it is forbidden me to hope for it, I wou'd now be contented with ſome Lines from your Hand. Is it then ſo great a Trouble to write to them you love, if it be yet true that you love me? I ask not ſuch Letters as you fill with Learn<g ref="char:EOLhyphen"/>ing, and with which you raiſe your Reputa<g ref="char:EOLhyphen"/>tion; all that I beg for, is a few Letters which your Heart will dictate to you, as faſt as you can write, without any ſtudy or application. How was I deciev'd, when I thought you was all mine, and took this</hi> Veil, <hi>engaging my ſelf to live for ever under your Laws; for in ma<g ref="char:EOLhyphen"/>king</hi> Profeſſion, <hi>I pretended not any thing elſe than to be</hi> Yours; <hi>and I voluntarily took it upon me, thro' the Deſire you had of ſeeing me Encloiſter'd, and now nothing but Death can free me from this Place where you have put me: Yea, my Aſhes ſhall remain here to wait for yours, or at leaſt to be a Mark of my Obedience to you.</hi>
+                     </p>
+                     <p>
+                        <hi>What ſignifies it, to conceal the Secret of my Vocation? You know it. 'Twas neither Zeal nor Devotion that tranſported me into this Cloiſter. I am here, I remain and abide here, becauſe an Unhappy Love, and Cruel Relations have condemn'd me hither; and if I have no Continuation of your Care, if I loſe
+<pb n="29" facs="tcp:45470:15"/> your Friendſhip, what will be the Fruit of my Priſon? What Reward is there for me to ex<g ref="char:EOLhyphen"/>pect? I, who am at the Head of a Religious Community, am the feeble Captive of unhappy Love, and devoted only to</hi> Abelard. <hi>I re<g ref="char:EOLhyphen"/>peat continually in my Memory paſt Misfor<g ref="char:EOLhyphen"/>tunes, not being able to think upon any thing elſe.</hi>
+                     </p>
+                  </body>
+               </floatingText>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>Do you ſee, <hi>Lucy,</hi> what other Arguments ſhe here uſes: Her Obedience, (a harſh Word you think,) and the inju<g ref="char:EOLhyphen"/>rious Effects of her Paſſion for him: and, conſidering that his Afflictions may have wrought much upon him, in order to a pious Life, ſhe (as you'll ſee preſently) omits not this Topick neither; framing her ſelf to every thing ſhe believes may pleaſe him, in order to prevail upon him.</p>
+            </sp>
+            <sp>
+               <speaker>Lucy.</speaker>
+               <p>I ſay, all this wou'd have been well, if it had not been ſpent upon one that had been capable of making any be<g ref="char:EOLhyphen"/>nevolent Returns.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>Will you never leave this way of talking?—But to proceed.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <p>
+                        <hi>What an Account, what a Relation is this! I reproach my own Faults, and accuſe you of yours; And why all this? See into what a</hi>
+                        <pb n="30" facs="tcp:45470:16"/> 
+                        <hi>Diſorder you have thrown me! How hard is it to ſtrive always in Duty againſt Inclination? I know what I owe to this Veil which covers me; but I feel much more than what a Habi<g ref="char:EOLhyphen"/>tude of Loving can influence upon a ſenſible Soul. I am conquer'd, I am overcome by my own Inclination. My Love raiſes a Tempeſt in my Soul, and will. In one Moment I hearken to the Sentiments of Piety which are rais'd in my Soul, and in another, I ſuffer e<g ref="char:EOLhyphen"/>very thing that is tender and ſoft to reign in my Imagination. I tell you to Day what I would not have told you Yeſterday, I wou'd not love you. I dream'd, that I had made Vows, that I was Veil'd, Bury'd, and as it were Dead; but by degrees there aroſe from the bottom of my Heart a Trouble which over<g ref="char:EOLhyphen"/>came all theſe Sentiments, which darken'd my Reaſon and Piety. You reign in the ſecret and imperceptible Places of my Heart, ſo that I can't attack you; and when I dream of Break<g ref="char:EOLhyphen"/>ing the Chain that tyes me to you, I flatter my ſelf, and all the Efforts I can make, ſerve only to bind me the faſter. For Pity's ſake aſſiſt a miſerable One, to renounce her Deſires to her ſelf, and to you, if it be poſſible. If you are a Lover, if you are a Father, Succour a Mi<g ref="char:EOLhyphen"/>ſtreſs, Comfort a Daughter: Can't theſe Names, theſe tender Names, ſoften you? Come back, either out of Pity or Love. If you do, I ſhall</hi>
+                        <pb n="31" facs="tcp:45470:16"/> 
+                        <hi>begin to be Religious without profaning my Vocation any longer.</hi>
+                     </p>
+                     <p>
+                        <hi>I had thought to have ended here; but whilſt I am complaining of you, I muſt diſ<g ref="char:EOLhyphen"/>charge my Heart, and eaſe it of all its Suſ<g ref="char:EOLhyphen"/>picions and Reproaches. 'Twas, I confeſs to you, a very hard thing to me, to ſee you in the Deſign you had of engaging me in this</hi> Profeſ<g ref="char:EOLhyphen"/>ſion <hi>before you had undertaken it your ſelf. How! thought I, does he think to find in me a new Example of</hi> Lot'<hi>s Wife, who look'd be<g ref="char:EOLhyphen"/>hind her as ſhe left</hi> Sodom? <hi>If my Youth and Sex made you believe that I might return to other Lovers,</hi> Paris <hi>being not yet in Flames nor Aſhes, my Manners, my Fidelity, and that Heart which you ought to know, ought to cure you of theſe ſorts of Suſpicions. How! thought I, Time was, he wou'd have been aſſur'd upon my bare Word, And muſt there now be Vows to anſwer for me? What Reaſon have I gi<g ref="char:EOLhyphen"/>ven him, in all the courſe of my Life, which cou'd make him ſuſpect me of the leaſt</hi> Light<g ref="char:EOLhyphen"/>neſs? <hi>Cou'd I be able to find him at all his Rendezvous, And ſhall I ſtick to follow him into the Houſe of Holineſs? How! I that am made a Victim of Pleaſure to ſatisfie him, Shall I refuſe to be a Sacrifice of Honour to obey him? Has Vice then greater Charms for well-educated Souls? Or, having once drank of the Cup of Sinners, ſhall I never take, but</hi>
+                        <pb n="32" facs="tcp:45470:17"/> 
+                        <hi>with Regret, the Chalice of Holineſs? Or rather, have you believ'd your ſelf a better Maſter in Vice than Vertue, do you think you can't as eaſily perſwade to one as the other? No, this wou'd be, without doubt, too injuri<g ref="char:EOLhyphen"/>ous to us both. Vertue is too fine, not to be em<g ref="char:EOLhyphen"/>brac'd when diſcover'd; and Vice is too much deform'd, not to be avoided when known. Every thing has Charms for me when you</hi> will <hi>it. Nothing is Frightful, nothing Diffi<g ref="char:EOLhyphen"/>cult, when you are by. I am not weak, but when you don't enlighten me; ſo that it will be your Fault, if I am not what you cou'd wiſh me to be. I have done too much, and I muſt at this Day triumph over your Ingratitude. When we liv'd happily, you might have doubted whether 'twas Pleaſure, or Friendſhip, which ty'd me to you; but now the Place, wherein I am and write, decides the Matter. I love you here at leaſt as much as ever I did. If I had lov'd Pleaſure, when that baſe Attempt was made upon you, Cou'd not I have found how to have pleas'd my ſelf? I was not Eigh<g ref="char:EOLhyphen"/>teen Years old at that time; and there were other Men, whom I might have hop'd to pleaſe; but</hi> Abelard <hi>was no more of that number, and yet I wou'd have none but him. 'Twas then for Love of you, that in an Age ſo proper for Love, and its Triumphs, that I threw my ſelf alive into a Monaſtery. 'Tis</hi>
+                        <pb n="33" facs="tcp:45470:17"/> 
+                        <hi>for your ſake that I have given the Remainders of my Beauty to the Days and Nights which I paſs alone, which are now haſting to wither up; and becauſe you cou'd not enjoy 'em, I of<g ref="char:EOLhyphen"/>fer'd 'em to God only, and made him a ſecond Preſent of my Heart, my Days, and my Life.</hi>
+                     </p>
+                  </body>
+               </floatingText>
+            </sp>
+            <sp>
+               <speaker>Amy.</speaker>
+               <p>This Paragraph is one of the chiefeſt Motives I had to read this Letter to you; <hi>Eloiſa</hi>'s Caſe here and yours, being the very ſame. If your Husband is, or ſhou'd be, Jealous of you, you have here, perhaps, the beſt Arguments in the World to cure him of it. Beſides, my Friend <hi>Lucy,</hi> I thought it wou'd be more effacious and taking, to find ſuch Argu<g ref="char:EOLhyphen"/>ments diſpers'd up and down in an Hiſto<g ref="char:EOLhyphen"/>rical Account that wants not the greateſt Ornament of Pleaſing, I mean Truth, than to have collected 'em for your uſe, and put 'em under their proper Heads, diveſting 'em of this Advantage, of be<g ref="char:EOLhyphen"/>ing as it were acted over, and repreſen<g ref="char:EOLhyphen"/>ted to you by a Third Perſon. I confeſs, 'tis a Method wou'd take much better with me than a dry Moral, which has not the inviting as well as the profitable part.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <pb n="34" facs="tcp:45470:18"/>Lucy.</speaker>
+               <p>'Tis extream well done, and your Deſign I highly approve, and think my ſelf Happy, that I have ſo great an Inte<g ref="char:EOLhyphen"/>reſt in your particular Care. Pray let's have the reſt.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <p>
+                        <hi>I enlarge a little too much in this place, and I ought to ſpeak leſs of your Misfortune, and of that which I ſuffer for the Love of you. We tarniſh the Glory of fine Actions, when we make a Panegyrick of our ſelves. 'Tis true, but when we have to do with Men ſtupify'd with baſe Ingratitude, we can't ſpeak too much of the Concern we have with them. If you were of that Number, this Reproach would teach you many things: I will not make you one of them, leaſt I ſhould wrong you. Irre<g ref="char:EOLhyphen"/>ſolute that I am, I perceive I love you ſtill. Nevertheleſs, I hope for nothing; I have re<g ref="char:EOLhyphen"/>nounc'd Life, deſpoil'd my ſelf of every thing; for I find I have loſt</hi> Abelard <hi>in loſing my Lo<g ref="char:EOLhyphen"/>ver. I preſerve my Love in a Monaſtery where I keep my Vows. Our unpitying Laws have not made me loſe Humanity. You have not made me Marble, by changing my Habit; my Heart is not hardened, by being ſeparated from you. I am ſenſible of every thing I have been, and yet I muſt be ſo no longer. Suffer, without hurting</hi> your <hi>Empire, that my</hi> Lover <hi>may exhort me to live under your Laws:</hi>
+                        <pb n="35" facs="tcp:45470:18"/> Your <hi>Yoke will be very light, if</hi> his <hi>Hand ſupports it:</hi> Our <hi>Exerciſes will become lovely, when</hi> he <hi>ſhews their Profit. Retreat! Soli<g ref="char:EOLhyphen"/>tude won't affright me, if I cou'd learn that I had ſome part in</hi> his <hi>Remembrance. A Heart ſo deeply touch'd as mine, is not ſo eaſi<g ref="char:EOLhyphen"/>ly determin'd to Indifference. Yes,</hi> Abelard, <hi>I conjure you, by the Chains which I drag here, to eaſe the Weight, and make 'em as agreeable as I cou'd wiſh 'em. Give me the Maxims of a Holy Love, that, after having quitted you, I may glory in being the Spouſe of God. My Heart adores this Title, and diſdains all others. Make me know how this Divine Love is nou<g ref="char:EOLhyphen"/>riſh'd, entertain'd, and purify'd more and more. Before we were retir'd from the World, we buſy'd our ſelf much in your Compoſures, which told the Age of our Joys and Pleaſures: Now we are in the Haven of Grace, is it im<g ref="char:EOLhyphen"/>proper to ſpeak with me of my Happineſs, and ſhew me how to encreaſe it? Have but the ſame Complaiſance for me in the State wherein I now am, as you had for me before our Re<g ref="char:EOLhyphen"/>tirement. Without changing the Heart, let us change the Object; and, leaving our pro<g ref="char:EOLhyphen"/>fane Songs, let us ſing Divine Hymns. Let us elevate our Hearts to God, and have no other Tranſports but for his Glory.</hi>
+                     </p>
+                     <p>
+                        <hi>I expect all this from you, as a Charge whereof you can't extricale your ſelf. God</hi>
+                        <pb n="36" facs="tcp:45470:19"/> 
+                        <hi>has a particular Right over the Hearts of Great Men which he hath form'd: When he touches 'em, he raviſhes 'em, and makes 'em that they neither ſpeak nor breathe, but for him. Even till this Moment of Grace happens, think upon me, forget me not: Remember my Ten<g ref="char:EOLhyphen"/>derneſs, my Fidelity, my Conſtancy. Love a Miſtreſs, cheriſh a Daughter, a Siſter, a Spouſe. Dream, that I love you ſtill, and that I endeavour not to love you any more. What ſaid I? I tremble, and my Heart con<g ref="char:EOLhyphen"/>tradicts that Word. Help me to blot it out again. I finiſh this long Letter, by ſaying, if you</hi> will <hi>have it ſo, (wou'd to God I cou'd ſub<g ref="char:EOLhyphen"/>ſcribe to it,) </hi>
+                     </p>
+                     <closer>
+                        <salute>For Ever Farewel.</salute>
+                     </closer>
+                  </body>
+               </floatingText>
+            </sp>
+            <sp>
+               <speaker>Lucy.</speaker>
+               <p>Dear <hi>Amy,</hi> oblige me with a Copy of this Letter.</p>
+            </sp>
+            <sp>
+               <speaker>Amy.</speaker>
+               <p>With all my Heart.</p>
+            </sp>
+            <sp>
+               <speaker>Lucy.</speaker>
+               <p>Oh! there is my <hi>Will.</hi> a coming.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>What do you mean, <hi>Lucy:</hi> Who is that?</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>My Husband: I'll retire, and leave him to your Management.</p>
+            </sp>
+            <sp>
+               <speaker>William.</speaker>
+               <p>Madam, Your moſt humble Servant; I know not whether my Sur<g ref="char:EOLhyphen"/>pri<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, or Joy, to ſee you here, is greateſt.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>Your Servant, Sir; I came to pay a Viſit to your Lady: She is gone up Stairs, and will be here preſently.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <pb n="37" facs="tcp:45470:19"/>Will.</speaker>
+               <p>Ay, when ſhe pleaſes.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>I have had ſome Acquaintance with her before ſhe was Married; I hope you are very Happy in your Choice.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Indeed, Madam, to be free, I am not over Happy in it.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>Why, Sir, your Wife is extream pretty; and, ſo far as I can gueſs, wou'd make any Man happy.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>You're much in the right on't; I believe ſhe wou'd: She is pretty free of her Favours.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>I meant only ſo far as a good Wife cou'd do it. Pray excuſe my Free<g ref="char:EOLhyphen"/>dom. The little Acquaintance I have had with her, I hope, will not be unuſeful to either of you.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Indeed, Madam, you are the only Perſon among all my Wife's Acquain<g ref="char:EOLhyphen"/>tance, (and that perhaps is not a few,) whoſe Reputation, I think, is clear and unſpotted: I beſeech you to continue your Correſpondence, and, if poſſible, make her a Proſelyte to your Vertues.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>Pray be a little more particular.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>No, Madam, I muſt not; for I ſhould rail, and make you uneaſie.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>Sir, It's the Office of one Friend to take a part in the Happineſs or Miſery of another: I ſee ſuch Characters of Un<g ref="char:EOLhyphen"/>eaſineſs
+<pb n="38" facs="tcp:45470:20"/> in your Face, that I am concern'd to know the Cauſe of it.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>In ſhort, Madam, think the worſt of a Woman you can, and you'll make a faint Eſſay towards the Character of my Wife.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>Why do you talk at this rate, Sir? Does ſhe abuſe your Bed?</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>I am not very ſure, Madam; but I am a little jealous of it.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>What, Sir, perhaps you have no other Reaſon, but that you were over<g ref="char:EOLhyphen"/>haſty your ſelf, and would not ſtay till the Parſon ſaid <hi>Amen.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>And if I did ſo before, Is there not as great a Probability, nay a much greater, that others have done the like afterwards, when there is not half the Fears and Inconveniences to oppoſe the Temptation.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>You ſay, you only ſuſpect it: Unleſs you were ſure, Why ſhould you make your ſelf uneaſie, by Anticipation? Can't you forgive your Wife an imagina<g ref="char:EOLhyphen"/>ry Crime, which only Exceſs of Affection to you, cauſed her to commit?</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>No. Why ſhould I forgive her?</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>And can you forgive your ſelf?</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Why not? Would not any Man have done as much?</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <pb n="39" facs="tcp:45470:20"/>Am.</speaker>
+               <p>I confeſs, moſt Gentlemen, now<g ref="char:EOLhyphen"/>a-days, think it no Sin, or Fault, to do ſo: But pray, How could that be a Fault in her, which was not one in you? Have not all the ſame Paſſions? Had ſhe reſi<g ref="char:EOLhyphen"/>ſted you, you had been criminal alone, and ſhe vertuous; and at the worſt, when ſhe complyed, ſhe was guilty but of half the Crime; and 'Partnerſhip ſhould rather be an Argument of Endearment than A<g ref="char:EOLhyphen"/>verſion: 'Tis ſo in every thing elſe. I ſpeak not this, to extenuate what I cou'd wiſh had not been; but to convince you of your Injuſtice, in endeavouring to ſhift off and evade your own Guilt, by laying it upon another, who had been more In<g ref="char:EOLhyphen"/>nocent and Vertuous than your ſelf, had it not been for you.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>I confeſs, my Prejudices may be as unjuſt as you have repreſented 'em: I wiſh I could not think ſo unhandſomely for the future.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>I'll make no Excuſes for my Free<g ref="char:EOLhyphen"/>dom with you; but if there be no other Obſtructions that lie in the way of your Happineſs, I ſee no Reaſon why the E<g ref="char:EOLhyphen"/>ſtate of Marriage ſhould not be the moſt happy Eſtate in the World: The Ordi<g ref="char:EOLhyphen"/>nance is Divine; 'tis Natural; it has the Advantage of Advice, Tenderneſs, Inte<g ref="char:EOLhyphen"/>reſt,
+<pb n="40" facs="tcp:45470:21"/> and what not. All conſpire toge<g ref="char:EOLhyphen"/>ther to make you Happy, if it be not your own Faults.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Your Husband muſt needs be Happy, in having ſo good a Wife.</p>
+            </sp>
+            <sp>
+               <speaker>Am</speaker>
+               <p>A good Husband makes a good Wife No Woman that has common Senſe, and Gratitude, but may be made a very good Wife.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Then, I think, my Wife has nei<g ref="char:EOLhyphen"/>ther Senſe, nor Gratitude; for ſhe is con<g ref="char:EOLhyphen"/>tinually upon unaccountable Viſits, ſeldom or never pleaſed, when at home; always railing, and calling provoking Names; nay, this before Servants, Strangers, <hi>&amp;c.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Am</speaker>
+               <p>Are you without Fault? Do you never give any juſt Occaſion for her doing ſo? Are you always Tender, Affable, and Agreeable? You ought to comply, tho' againſt your Inclinations, till by de<g ref="char:EOLhyphen"/>grees, and proper Opportunities of ſpeak<g ref="char:EOLhyphen"/>ing, you make her and your ſelf eaſie.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>How! Comply againſt my In<g ref="char:EOLhyphen"/>clinations!</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>Ay, that's the great Secret of con<g ref="char:EOLhyphen"/>jugal Happineſs. Does the Word Com<g ref="char:EOLhyphen"/>pliance or Self-Denial, ſeem ſo ſtrange to you? For my part, I think there is a great deal of Prudence and Reaſon in it. He that conquers himſelf, does more
+<pb n="41" facs="tcp:45470:21"/> than he that takes a City. Conqueſt ſuppoſes Oppoſition. Do you think the Word Patience, and Self-denial, <hi>&amp;c.</hi> are empty ſounds? No, my Friend, I know you do not. Can we then reap the Re<g ref="char:EOLhyphen"/>wards and Fruits of theſe without exer<g ref="char:EOLhyphen"/>ciſing 'em?</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Ah, Madam, how much eaſier is the Theory, than the Practice of Things?</p>
+            </sp>
+            <sp>
+               <speaker>Amy.</speaker>
+               <p>True; but the Difficulty, by de<g ref="char:EOLhyphen"/>grees, vaniſhes, as you exerciſe your ſelf in the contrary Vertue. Do but conſider the many mechanick Trades in the Na<g ref="char:EOLhyphen"/>tion, ſome of which would give you much difficulty and trouble to attain to; but yet you ſee it continually conquered, only for the fake of <hi>Living.</hi> Now whe<g ref="char:EOLhyphen"/>ther is Living, or the <hi>Happineſs of Life,</hi> a greater Bleſſing? Certainly the latter. Why then ſhould you not think a little Pains, and Induſtry, a little Application of Mind, (doubtleſs much leſs than is commonly us'd in the Affairs of getting the Neceſſaries of Life,) worth the Re<g ref="char:EOLhyphen"/>compence of living <hi>Happily.</hi> In fine, my Friend, let me perſwade you to take heed, that no irregular Action of yours be a Temptation to your Wife. Examine your own Conduct towards her; and, if you have Conveniency, take her into the Country with you, and live retired for
+<pb n="42" facs="tcp:45470:22"/> ſome time: Be as kind to her in every thing as poſſible; and when abſent, re<g ref="char:EOLhyphen"/>commend good practical Treatiſes of Re<g ref="char:EOLhyphen"/>ligion: Take proper Opportunities of ſpeaking to her; diſcover a greater Con<g ref="char:EOLhyphen"/>cern for her Reputation, than your own.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>I dare ſay, all that that would not do.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>'Tis hard to think ſo; but do what's in your Power. If, when you have done your pa<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, you cannot Reclaim her, you have nothing to anſwer for. But I am morally certain, that thoſe, Irre<g ref="char:EOLhyphen"/>gularities you impute to your Wife, are in a great meaſure owing to your ſelf. If you would reclaim her, reform your ſelf; and I queſtion not, but you will find a great Alteration of Affairs in a little <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Indeed I can't juſtifie my ſelf in all my Actions towards my Wife, I be<g ref="char:EOLhyphen"/>lieve I may contribute towards her Miſ<g ref="char:EOLhyphen"/>carriages. But for the future, according to your Advice, I'll endeavour to give her a good Example.</p>
+            </sp>
+            <sp>
+               <speaker>Amy.</speaker>
+               <p>I wiſh you would: I ſhall reckon my ſelf very Happy, if I may any ways be <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ceſſary to ſerve you, and my Friend <hi>Lucy</hi> in a Buſineſs of ſuch Importance.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <pb n="43" facs="tcp:45470:22"/>Will.</speaker>
+               <p>Dear Madam, I thank you; and to let you ſee how much I value your good Advice, I'll begin to put it into practice preſently. Oh there's my <hi>Lucy</hi> a co<g ref="char:EOLhyphen"/>ming. I vow, I imagine I'm going a Courting again—Methinks, my dear <hi>Lucy,</hi> this looks like our Marriage-Day. We have here our beſt Friend to be witneſs of our Paſſions; What ſay you<g ref="char:punc">▪</g> Shall we be married again?</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>You mean unmarried, my Dear.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>No, I proteſt.</p>
+            </sp>
+            <sp>
+               <speaker>Lucy.</speaker>
+               <p>Well then, if it be ſo, you muſt court me again; and if we marry a ſe<g ref="char:EOLhyphen"/>cond time, we muſt both alter our Hu<g ref="char:EOLhyphen"/>mours; otherwiſe we ſhall never be Hap<g ref="char:EOLhyphen"/>py.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>How long muſt the Courtſhip laſt?</p>
+            </sp>
+            <sp>
+               <speaker>Luc.</speaker>
+               <p>All my Life: But, dear <hi>Amy,</hi> am not I oblig'd to you for my Husband's pleaſant Humour? I wiſh he be not in jeſt.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Ha, Madam, ſhe prevents me—Am not I in a Dream?</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>Come, my Friends, you are or may be as Happy as you pleaſe: I can<g ref="char:EOLhyphen"/>not ſet my Husband and my ſelf as your Patterns; for I hope you'll make greater Examples: But, I think, neither of us Envy the Condition of any Perſon alive.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <pb n="44" facs="tcp:45470:23"/>Luc.</speaker>
+               <p>I cou'd ſay ſo too, wou'd my dear <hi>Will.</hi> be kind and conſtant.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Indeed, <hi>Lucy</hi>—Then I'll hinder your Happineſs no longer. Be Happy, and I cannot be otherwiſe.</p>
+            </sp>
+            <sp>
+               <speaker>Am.</speaker>
+               <p>May both your Reſolutions laſt—You muſt both bear and forbear, look up<g ref="char:EOLhyphen"/>on each others Fallings as your own, pre<g ref="char:EOLhyphen"/>fer each others Inclinations before your own, and then I'll ſecure your mutu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l Peace and Happineſs.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
